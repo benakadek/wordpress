@@ -1,5 +1,6 @@
 custom carousel oxygen
 
+// THIS IS THE PHP CODE
 
 <?php if( have_rows('logo_partner') ): ?>
 <div class="slider">
@@ -13,7 +14,7 @@ custom carousel oxygen
 	 <?php endif; ?>  
 </div>
  
-css
+// THIS IS THE CSS CODE
 
 @keyframes scroll {
 	 0% {
